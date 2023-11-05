@@ -1,0 +1,38 @@
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\APLIKASI PERPUSTAKAAN.exe.config
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\APLIKASI PERPUSTAKAAN.exe
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\APLIKASI PERPUSTAKAAN.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\APLIKASI PERPUSTAKAAN.xml
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.vbprojResolveAssemblyReference.cache
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.Resources.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.vbproj.GenerateResource.Cache
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.exe
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.xml
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmLogin.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmAdmin.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmAdminManajemen.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmOperator.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmManageAnggota.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmManageBuku.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmManageKatalog.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmmanageAdmin.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmManajemenOperator.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI_PERPUSTAKAAN.FrmPeminjaman.resources
+C:\Users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\RdlCompile.cache
+C:\Users\m3m\documents\visual studio 2015\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\RdlCompile.compiled
+D:\IT Software\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\bin\Debug\APLIKASI PERPUSTAKAAN.exe.config
+D:\IT Software\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.exe
+D:\IT Software\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.xml
+D:\IT Software\Projects\APLIKASI PERPUSTAKAAN\APLIKASI PERPUSTAKAAN\obj\Debug\APLIKASI PERPUSTAKAAN.pdb

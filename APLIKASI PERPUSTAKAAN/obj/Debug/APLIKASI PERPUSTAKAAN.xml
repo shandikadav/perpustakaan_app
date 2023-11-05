@@ -1,0 +1,496 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+APLIKASI PERPUSTAKAAN
+</name>
+</assembly>
+<members>
+<member name="T:APLIKASI_PERPUSTAKAAN.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.exit__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.icons8_borrow_book_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.icons8_borrow_book_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.icons8_borrow_book_641">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.icons8_graph_report_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.icons8_group_of_projects_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.icons8_return_book_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APLIKASI_PERPUSTAKAAN.My.Resources.Resources.icons8_settings_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet.anggotaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet.anggotaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet.anggotaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.anggotaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager.UpdateAll(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1.bukuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1.bukuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1.bukuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.bukuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager.UpdateAll(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2.katalog_bukuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2.katalog_bukuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2.katalog_bukuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.katalog_bukuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager.UpdateAll(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3.adminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3.adminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3.adminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.adminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager.UpdateAll(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4.anggotaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4.anggotaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4.anggotaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.anggotaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager.UpdateAll(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.anggotaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.bukuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.sirkulasiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.anggotaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.bukuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.sirkulasiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.anggotaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.bukuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5.sirkulasiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.anggotaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.bukuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.sirkulasiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager.UpdateAll(APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:APLIKASI_PERPUSTAKAAN.DB_APP_PERPUSTAKAANDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
